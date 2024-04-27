@@ -10,5 +10,6 @@ A new directory containing 44 test images is created later for prediction purpos
 3. validation (18031 images)
 
 ## DATASET LINKS 📚
-    Kaggle Data Set 1 [link](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset/data)
-    Kaggle Data Set 2 for Rice And Wheat [link](https://www.kaggle.com/datasets/jawadali1045/20k-multi-class-crop-disease-images)
+Kaggle Data Set 1 [link](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset/data)
+
+Kaggle Data Set 2 for Rice And Wheat [link](https://www.kaggle.com/datasets/jawadali1045/20k-multi-class-crop-disease-images)
