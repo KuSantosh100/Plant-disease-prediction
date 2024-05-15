@@ -13,3 +13,15 @@ A new directory containing 44 test images is created later for prediction purpos
 Kaggle Data Set 1 [link](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset/data)
 
 Kaggle Data Set 2 for Rice And Wheat [link](https://www.kaggle.com/datasets/jawadali1045/20k-multi-class-crop-disease-images)
+
+## Screenshots of the App
+<img  src="./assets/Screenshot 2024-05-15 123521.png" width="50%"><img  src="./assets/Screenshot 2024-05-15 124255.png" width="50%">
+
+## How to run
+1. Install requirements.txt file as such:
+
+   ``` pip install -r requirements.txt  ```
+
+2. Run the App (only Text) file as such:
+
+   ``` streamlit run main.py  ```
